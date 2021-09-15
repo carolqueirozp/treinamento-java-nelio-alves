@@ -1,6 +1,7 @@
+package modQuatroEstruturaSequencial;
 import java.util.Locale;
 
-public class Main {
+public class GeralEntradaDados {
 
 	public static void main(String[] args) { //Define o Entry Point da Aplicação (Entrada do Programa)
 		
